@@ -25,10 +25,10 @@
     - robust scaler
 
 ### 모델링
-* Linear regression
-* Xgboost regression
-* Random Forest regression
-* Graient boosting : 최종 선택
+* Linear Regression
+* XGBoost Regression
+* Random Forest Regression
+* Gradient Boosting : 최종 선택
 * LSTM 
 
 ### 모델 평가
