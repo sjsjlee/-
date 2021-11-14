@@ -417,18 +417,6 @@ plt.legend(fontsize = 20)
 plt.show()
 
 
-
-from sklearn.model_selection import GridSearchCV
-
-parameters = {'max_depth' : [3,4,5,6], 'random_state' : [7,8,9,10]}
-
-model = GradientBoostingRegressor()
-grid_dtree = GridSearchCV(model, param_grid = parameters, cv = 3, refit=True)
-
-grid_dtree.fit(X_train, Y_train)
-
-scores_df = pd.DataFrame(grid_dtree.cv_results_)
-
 from sklearn.model_selection import GridSearchCV
 
 parameters = {'max_depth' : [5,6,7], 'random_state' : [9, 10, 11]}
