@@ -21,8 +21,8 @@
 * scaler를 통한 데이터 스케일링 
     * standard scaler
     - minmax scaler
-    - max abs scaler : 최종 선택
-    - robust scaler
+    - max abs scaler 
+    - robust scaler : 최종선택
 
 ### 모델링
 * Linear Regression
