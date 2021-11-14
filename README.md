@@ -10,6 +10,10 @@
 
 ### 사용 툴&언어
 * 파이썬&구글 코랩
+* pandas, numpy
+* scikit learn
+* matplotlib, seaborn
+* keras
 
 ### 탐색적 EDA를 위해 사용한 기법
 * 파생변수 추가
