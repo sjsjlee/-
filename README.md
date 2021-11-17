@@ -9,7 +9,8 @@
 * 2018-2020 따릉이대여량예측을 위한 데이터(DACON 제작) 
 
 ### 사용 툴&언어
-* 파이썬&구글 코랩
+* Python
+* Google Colab
 * pandas, numpy
 * scikit learn
 * matplotlib, seaborn
